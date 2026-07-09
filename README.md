@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rupam Biswas 👋<br><br>💻 IT Engineering Student |<br> 🌱 Currently learning Full-Stack Web Development and DSA<br>🚀 Building projects with Python, HTML, CSS, JavaScript, and Flask<br>🐦 Creator of a Flappy Bird game using Python and Pygame<br>🎯 Goal: Build impactful software and grow as a Software Engineer.
+Hi, I'm Rupam Biswas 👋<br><br>💻 IT Engineering Student <br> 🌱 Currently learning Full-Stack Web Development and DSA<br>🚀 Building projects with Python, HTML, CSS, JavaScript, and Flask<br>🐦 Creator of a Flappy Bird game using Python and Pygame<br>🎯 Goal: Build impactful software and grow as a Software Engineer.
 
 
 ## 🌐 Socials:
